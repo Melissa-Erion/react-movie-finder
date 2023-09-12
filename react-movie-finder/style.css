@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+body{
+    background: #333;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+input {
+    width: 300px;
+    margin-right: 5px;
+    border: 2px solid black;
+    height: 25px;
+  }
+  button{
+    background-color: red;
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+    border: 2px solid black;
+    padding: 5px;
+  }
+
+  form{
+    padding-top: 10px;
+    padding-bottom: 20px;
+  }
+
+  h1{
+    text-transform: uppercase;
+    color: #fff;
+    letter-spacing: 5px;
+    padding-top: 20px;
+  }
+  img{
+    width: 50px;
+  }
